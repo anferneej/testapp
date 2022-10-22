@@ -1,26 +1,26 @@
 [
 	{
 		"id": "1",
-		"Name": "Anfernee",
-		"Career": "Primary School Teacher",
+		"name": "Anfernee",
+		"career": "Primary School Teacher",
 		"image": "anfernee",
 	},
 	{
 		"id": "2",
-		"Name": "Migo",
-		"Career": "Junior High School Teacher",
+		"name": "Migo",
+		"career": "Junior High School Teacher",
 		"image": "migo",
 	},
 	{
 		"id": "3",
-		"Name": "Freya",
-		"Career": "Primary School Student",
+		"name": "Freya",
+		"career": "Primary School Student",
 		"image": "freya",
 	},
 	{
 		"id": "4",
-		"Name": "Aaron",
-		"Career": "Primary School Student",
+		"name": "Aaron",
+		"career": "Primary School Student",
 		"image": "aaron",
 	}
 ]
