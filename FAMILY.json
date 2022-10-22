@@ -3,24 +3,24 @@
 		"id": "1",
 		"name": "Anfernee",
 		"career": "Primary School Teacher",
-		"image": "anfernee"
+		"image": "anfernee.jpg"
 	},
 	{
 		"id": "2",
 		"name": "Migo",
 		"career": "Junior High School Teacher",
-		"image": "migo"
+		"image": "migo.jpg"
 	},
 	{
 		"id": "3",
 		"name": "Freya",
 		"career": "Primary School Student",
-		"image": "freya"
+		"image": "freya.jpg"
 	},
 	{
 		"id": "4",
 		"name": "Aaron",
 		"career": "Primary School Student",
-		"image": "aaron"
+		"image": "aaron.jpg"
 	}
 ]
